@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MinistryLocalGovWebApp",
   "resources": {
-    "hash": "sha256-fTV7T42d3843JNaBPE7EjZVfVlTPMPP+8zB59oUQRic=",
+    "hash": "sha256-K8ChIc/Qpb1e9DQ3Q7+u14dxhmtzs10eSHKrkw5ctJ8=",
     "fingerprinting": {
       "Fluxor.hnfazpbnxb.wasm": "Fluxor.wasm",
       "Fluxor.Blazor.Web.z7l694tphu.wasm": "Fluxor.Blazor.Web.wasm",
@@ -64,9 +64,9 @@
       "System.Xml.XDocument.kpklgpeww4.wasm": "System.Xml.XDocument.wasm",
       "System.8rv0tdtrxz.wasm": "System.wasm",
       "System.Private.CoreLib.nlllenk8ae.wasm": "System.Private.CoreLib.wasm",
-      "CompanyApp.Components.MinistrialCdf.pljwraib8m.wasm": "CompanyApp.Components.MinistrialCdf.wasm",
+      "CompanyApp.Components.MinistrialCdf.dwexyupy34.wasm": "CompanyApp.Components.MinistrialCdf.wasm",
       "Components.MinistryofLocalGovernment.ncoj0d4yhd.wasm": "Components.MinistryofLocalGovernment.wasm",
-      "MinistryLocalGovWebApp.06ttlfpgck.wasm": "MinistryLocalGovWebApp.wasm",
+      "MinistryLocalGovWebApp.g7jotz2oj0.wasm": "MinistryLocalGovWebApp.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.l4ptthxatg.js": "dotnet.native.js",
       "dotnet.native.d2w7colv7e.wasm": "dotnet.native.wasm",
@@ -153,9 +153,9 @@
       "System.Xml.Linq.fnt4rzi185.wasm": "sha256-5claBNmyy8L12DFLS17Fh4SBiTjwhYts3ds7g8dX8Gc=",
       "System.Xml.XDocument.kpklgpeww4.wasm": "sha256-GFDeJPMpvuxG84bJZz3l/h9Zp3tHgIQlwd9lBwkQq9w=",
       "System.8rv0tdtrxz.wasm": "sha256-xMF0eauQ5DkSzUozHLFFMQnL6DSJO09nJLtgag+Dzbw=",
-      "CompanyApp.Components.MinistrialCdf.pljwraib8m.wasm": "sha256-w5E+FIjaRPeFDO7NAv/jzP5b9zvwkNOPCHu/pnjWypY=",
+      "CompanyApp.Components.MinistrialCdf.dwexyupy34.wasm": "sha256-rXNOlRDJ+ikrxTtGtaf9M275J0GlKTS6uYLSdktD4l8=",
       "Components.MinistryofLocalGovernment.ncoj0d4yhd.wasm": "sha256-+emRiQOHYT6NZkyEHNRgg4heG+AHXETrHv3PCUuviQ4=",
-      "MinistryLocalGovWebApp.06ttlfpgck.wasm": "sha256-6Jl3YQR6vHgkiKQmmhdeacV+0AiU0kPe3y+s9xR15D0="
+      "MinistryLocalGovWebApp.g7jotz2oj0.wasm": "sha256-xL+7vxYmvDaIt0GAQ6OVj3/pdUPNP87Ax3SCeX88UXY="
     }
   },
   "cacheBootResources": true,
